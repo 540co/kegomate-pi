@@ -1,1 +1,1 @@
-# kegomate-backend
+# kegomate-pi
